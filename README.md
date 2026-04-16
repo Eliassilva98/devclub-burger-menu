@@ -4,7 +4,7 @@ Mais um projeto concluído no módulo de JavaScript, mas dessa vez diferente de 
 
 O professor Rodolfo Mori sempre nos incentiva a diferenciar nossos projetos — seja mudando a cor de um botão, ajustando o background ou adicionando um detalhe extra para que nenhum projeto fique igual ao outro. E foi exatamente isso que fiz aqui.
 
-Neste projeto, eu e o GPT criamos um background em linear-gradient na cor mostarda, trocamos as cores dos botões e adicionamos um efeito hover com:
+Neste projeto, eu criei um background em linear-gradient na cor mostarda, troquei as cores dos botões e adicionei um efeito hover com:
 
 transform: scale(1.05);
 
